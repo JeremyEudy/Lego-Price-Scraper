@@ -8,7 +8,7 @@ python scraper.py <input file>
 ```
 
 The input file should be formatted as such:
-<SET NUMBER> <SET NAME>
+\<SET NUMBER\> \<SET NAME\>
 
 The returned pricing sheet is a formatted CSV with the following headers:
 
