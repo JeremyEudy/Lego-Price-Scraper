@@ -11,4 +11,5 @@ The input file should be formatted as such:
 <SET NUMBER> <SET NAME>
 
 The returned pricing sheet is a formatted CSV with the following headers:
+
 Set Number, Set Name, Used Value, Used Value Range, Retail Price
