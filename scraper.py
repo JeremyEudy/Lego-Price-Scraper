@@ -29,11 +29,11 @@ class LegoPipeline:
         used_range = set_values[8]
         retail_price = set_values[1]
         clean_item = {
-                'set_num': set_num,
-                'set_name': set_name,
-                'used_value': used_value,
-                'used_range': used_range,
-                'retail_price': retail_price,
+                'Set Number': set_num,
+                'Set Name': set_name,
+                'Used Value': used_value,
+                'Used Price Range': used_range,
+                'Retail Price': retail_price,
         }
         return clean_item
 
